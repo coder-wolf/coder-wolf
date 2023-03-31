@@ -14,6 +14,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=coder-wolf&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coder-wolf&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-wolf&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+# Problem Solving
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sabir)](https://codeforces.com/profile/sabir)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sabir00?theme=nord&font=Anonymous%20Pro&ext=heatmap)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=coder-wolf&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
