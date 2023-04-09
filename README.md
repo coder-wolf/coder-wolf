@@ -1,4 +1,16 @@
 # 💫 About Me:
+<p align="left">
+  <a href="https://leetcode.com/sabir00/">
+    <img src="https://cp-logo.vercel.app/leetcode/sabir00" alt="Leetcode" />
+  </a>
+  <a href="https://codeforces.com/profile/sabir">
+    <img src="https://cp-logo.vercel.app/codeforces/sabir" alt="Codeforces" />
+  </a>
+  <a href="https://github.com/coder-wolf?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/coder-wolf?color=green&logo=github">
+  </a>
+</p>
+
 🔭 I'm currently working on using reinforcement learning to discover new algorithms, and computer vision techniques for early autism prediction.<br>👯 I'm interested in collaborating on research projects related to developing novel RL algorithms, fine-tuning language models, and applying computer vision in healthcare.<br>🤝 I'm looking for help with integrating RL and computer vision models into real-world systems for clinical use, and improving the accuracy and efficiency of language models through fine-tuning.<br>🌱 I'm currently learning about deep reinforcement learning, transfer learning, and fine-tuning language models.<br>💬 Ask me about the latest developments in RL, computer vision, and natural language processing, as well as the future of AGI and anything related to AI and tech.<br>⚡ Fun fact: Did you know that the first smartphone was created by IBM in 1993? It was called Simon, had a touchscreen display, and could send faxes and emails. However, it was never mass-produced and only a few thousand units were made.
 
 
@@ -10,6 +22,9 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=coder-wolf&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coder-wolf&theme=tokyonight&hide_border=false)<br/>
