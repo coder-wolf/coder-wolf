@@ -13,13 +13,14 @@
 
 👋 Welcome to my GitHub profile! Here's a brief introduction:
 
+
 🔬 Exploring reinforcement learning and computer vision for some exciting applications.
 
 🤝 Interested in collaborating on research projects in RL algorithms, language model fine-tuning, and healthcare applications of computer vision.
 
 🌱 Currently learning about deep reinforcement learning, transfer learning, and language model fine-tuning.
 
-💬 Feel free to ask me about the latest advancements in RL, computer vision, NLP, AGI, and everything related to AI and technology.
+💬 Feel free to ask me about the latest advancements in Flutter, Unix, AI & ML, and everything related to technology.
 
 ⚡ Fun fact: The world's first computer, the ENIAC, weighed 30 tons and used around 18,000 vacuum tubes. In contrast, modern smartphones are more powerful than the ENIAC and can fit in the palm of your hand.
 
