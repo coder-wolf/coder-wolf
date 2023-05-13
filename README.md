@@ -11,7 +11,19 @@
   </a>
 </p>
 
-🔭 I'm currently working on using reinforcement learning to discover new algorithms, and computer vision techniques for early autism prediction.<br>👯 I'm interested in collaborating on research projects related to developing novel RL algorithms, fine-tuning language models, and applying computer vision in healthcare.<br>🤝 I'm looking for help with integrating RL and computer vision models into real-world systems for clinical use, and improving the accuracy and efficiency of language models through fine-tuning.<br>🌱 I'm currently learning about deep reinforcement learning, transfer learning, and fine-tuning language models.<br>💬 Ask me about the latest developments in RL, computer vision, and natural language processing, as well as the future of AGI and anything related to AI and tech.<br>⚡ Fun fact: Did you know that the first smartphone was created by IBM in 1993? It was called Simon, had a touchscreen display, and could send faxes and emails. However, it was never mass-produced and only a few thousand units were made.
+👋 Welcome to my GitHub profile! Here's a brief introduction:
+
+🔬 Exploring reinforcement learning and computer vision for some fun applications.
+🤝 Interested in collaborating on research projects in RL algorithms, language model fine-tuning, and healthcare applications of computer vision.
+🌱 Currently learning about deep reinforcement learning, transfer learning, and language model fine-tuning.
+💬 Feel free to ask me about the latest advancements in RL, computer vision, NLP, AGI, and everything related to AI and technology.
+⚡ Fun fact: The world's first computer, the ENIAC, weighed 30 tons and used around 18,000 vacuum tubes. In contrast, modern smartphones are more powerful than the ENIAC and can fit in the palm of your hand.
+
+Feel free to explore my repositories and reach out if you have any questions or ideas!
+
+
+
+
 
 
 ## 🌐 Socials:
