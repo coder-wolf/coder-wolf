@@ -13,7 +13,7 @@
 
 👋 Welcome to my GitHub profile! Here's a brief introduction:
 
-🔬 Exploring reinforcement learning and computer vision for some fun applications.
+🔬 Exploring reinforcement learning and computer vision for some exciting applications.
 
 🤝 Interested in collaborating on research projects in RL algorithms, language model fine-tuning, and healthcare applications of computer vision.
 
