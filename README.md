@@ -40,8 +40,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-wolf&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) <br/>
-![](https://github-readme-stats.vercel.app/api?username=coder-wolf&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=coder-wolf&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=coder-wolf&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=coder-wolf&theme=tokyonight&hide_border=false)
 
 # Problem Solving
 
